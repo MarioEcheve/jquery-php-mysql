@@ -1,0 +1,18 @@
+:root{
+    --gris: #cccccc;
+    --negro:#000000;
+    --colorNaranja:#ffbc00;
+    --colorceleste:#00DAFF;
+}
+.colorFondo{
+    background: var(--ColorEmpresa);
+    color: var(--negro);
+}
+
+div.container {
+    width: 80%;
+}
+.botonMargen {
+    margin: auto;
+    font-size: 60%;
+}
